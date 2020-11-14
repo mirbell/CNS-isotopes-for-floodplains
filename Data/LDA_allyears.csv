@@ -1,0 +1,782 @@
+Sample ID ,Site,Date,Year,Tissue,d34S ,d13C,Caged,Exp_Wild
+YB140007 M,Yolo Bypass,NA,1999,M,-1.38,NA,uncaged,Wild
+YB140008 M,Yolo Bypass,NA,1999,M,-2.46,NA,uncaged,Wild
+YB140009 M,Yolo Bypass,NA,1999,M,-1.71,NA,uncaged,Wild
+YB140010 M,Yolo Bypass,NA,1999,M,-1.04,NA,uncaged,Wild
+YB140011 F COMBINE,Yolo Bypass,NA,1999,F,-0.95,NA,uncaged,Wild
+YB140011 M,Yolo Bypass,NA,1999,M,-1.31,NA,uncaged,Wild
+YB140012 M,Yolo Bypass,NA,1999,M,-1.78,NA,uncaged,Wild
+YB140016 M,Yolo Bypass,NA,1999,M,-2.22,NA,uncaged,Wild
+YB140017 M,Yolo Bypass,NA,1999,M,-3.85,NA,uncaged,Wild
+YB140017 S COMBINED,Yolo Bypass,NA,1999,S,-0.7,NA,uncaged,Wild
+YB140018 M,Yolo Bypass,NA,1999,M,-1.62,NA,uncaged,Wild
+YB140019 M,Yolo Bypass,NA,1999,M,-1.89,NA,uncaged,Wild
+YB140021 M,Yolo Bypass,NA,1999,M,-2.3,NA,uncaged,Wild
+YB140022 M,Yolo Bypass,NA,1999,M,-2.3,NA,uncaged,Wild
+YB140023 M,Yolo Bypass,NA,1999,M,-2.14,NA,uncaged,Wild
+YB140024 M,Yolo Bypass,NA,1999,M,-2.29,NA,uncaged,Wild
+YB140033 M,Yolo Bypass,NA,1999,M,-0.7,NA,uncaged,Wild
+YB140034 M,Yolo Bypass,NA,1999,M,-1.47,NA,uncaged,Wild
+YB140036 M,Yolo Bypass,NA,1999,M,-1.57,NA,uncaged,Wild
+YB140041 M,Yolo Bypass,NA,1999,M,-1.4,NA,uncaged,Wild
+YB140043 M,Yolo Bypass,NA,1999,M,-1.2,NA,uncaged,Wild
+YB140045 M,Yolo Bypass,NA,1999,M,-0.21,NA,uncaged,Wild
+YB140048 M,Yolo Bypass,NA,1999,M,-0.04,NA,uncaged,Wild
+YB140049 M,Yolo Bypass,NA,1999,M,-3.67,NA,uncaged,Wild
+YB140050 M,Yolo Bypass,NA,1999,M,-3.11,NA,uncaged,Wild
+YB140051 M,Yolo Bypass,NA,1999,M,14.01,NA,uncaged,Wild
+YB140052 M,Yolo Bypass,NA,1999,M,-1.58,NA,uncaged,Wild
+YB140059 M,Yolo Bypass,NA,1999,M,-2.01,NA,uncaged,Wild
+YB140060 M,Yolo Bypass,NA,1999,M,-2.57,NA,uncaged,Wild
+YB140061 M,Yolo Bypass,NA,1999,M,-0.89,NA,uncaged,Wild
+YB140062 M,Yolo Bypass,NA,1999,M,-2.98,NA,uncaged,Wild
+YB140063 M,Yolo Bypass,NA,1999,M,-2.59,NA,uncaged,Wild
+YB140064 M,Yolo Bypass,NA,1999,M,-0.91,NA,uncaged,Wild
+YB140065 M,Yolo Bypass,NA,1999,M,0.93,NA,uncaged,Wild
+YB140003 S COMBINED,Sacramento,NA,2012,S,3.52,NA,uncaged,Wild
+YB140005 M,Sacramento,NA,2012,M,12.19,NA,uncaged,Wild
+YB140005 S,Sacramento,NA,2012,S,7.48,NA,uncaged,Wild
+YB140014 M,Sacramento,NA,2012,M,-1.89,NA,uncaged,Wild
+YB140014 S,Sacramento,NA,2012,S,3.87,NA,uncaged,Wild
+YB140015 M,Sacramento,NA,2012,M,10.02,NA,uncaged,Wild
+YB140015-S,Sacramento,NA,2012,S,3.21,NA,uncaged,Wild
+YB140020 M,Sacramento,NA,2012,M,11.02,NA,uncaged,Wild
+YB140020 S,Sacramento,NA,2012,S,6.23,NA,uncaged,Wild
+YB140037 M,Sacramento,NA,2012,M,1.03,NA,uncaged,Wild
+YB140037 S,Sacramento,NA,2012,S,0.55,NA,uncaged,Wild
+YB140038 S COMBINED,Sacramento,NA,2012,S,1.98,NA,uncaged,Wild
+YB140056 M,Sacramento,NA,2012,M,4.06,NA,uncaged,Wild
+YB140056 S,Sacramento,NA,2012,S,4.1,NA,uncaged,Wild
+YB140057 M,Sacramento,NA,2012,M,3,NA,uncaged,Wild
+YB140057 S,Sacramento,NA,2012,S,1.53,NA,uncaged,Wild
+YB140069 S COMBINED,Sacramento,NA,2012,S,2.87,NA,uncaged,Wild
+YB140075 M,Sacramento,NA,2012,M,2.02,NA,uncaged,Wild
+YB140075 S,Sacramento,NA,2012,S,0.86,NA,uncaged,Wild
+YB140042 M,Sacramento,NA,2013,M,-0.25,NA,uncaged,Wild
+YB140042 S,Sacramento,NA,2013,S,-0.35,NA,uncaged,Wild
+YB140046 M,Sacramento,NA,2013,M,0.35,NA,uncaged,Wild
+YB140046 S,Sacramento,NA,2013,S,0.09,NA,uncaged,Wild
+YB140070 S COMBINED,Sacramento,NA,2013,S,1.52,NA,uncaged,Wild
+YB140083 M,Sacramento,NA,2013,M,3.44,NA,uncaged,Wild
+YB140083 S,Sacramento,NA,2013,S,0.36,NA,uncaged,Wild
+YB140089 M,Sacramento,NA,2013,M,2.93,NA,uncaged,Wild
+YB140089 S,Sacramento,NA,2013,S,1.35,NA,uncaged,Wild
+YB140095 M,Sacramento,NA,2013,M,4.44,NA,uncaged,Wild
+YB140095 S,Sacramento,NA,2013,S,2.88,NA,uncaged,Wild
+YB140031 M,Sacramento,NA,2014,M,12.96,NA,uncaged,Wild
+YB140031 S,Sacramento,NA,2014,S,9.37,NA,uncaged,Wild
+YB140032 M,Sacramento,NA,2014,M,-0.29,NA,uncaged,Wild
+YB140032 S,Sacramento,NA,2014,S,-2.06,NA,uncaged,Wild
+YB140067 M,Sacramento,NA,2014,M,3.09,NA,uncaged,Wild
+YB140067 S,Sacramento,NA,2014,S,2.17,NA,uncaged,Wild
+DM14007,Sacramento,2/12/2014,2014,M,2.3,-22,uncaged,Wild
+DM14008,Sacramento,3/6/2014,2014,M,5.8,-25.56,uncaged,Wild
+DM14016,Sacramento,4/11/2014,2014,M,2,-22.85,uncaged,Wild
+DM14017,Sacramento,4/11/2014,2014,M,3.8,-30.76,uncaged,Wild
+DM14018,Sacramento,4/11/2014,2014,M,12.8,-19.61,uncaged,Wild
+DM14019,Sacramento,4/11/2014,2014,M,4.5,-23.04,uncaged,Wild
+DM14020,Sacramento,4/11/2014,2014,M,12.1,-20.17,uncaged,Wild
+DM14021,Sacramento,4/11/2014,2014,M,4.1,-31.22,uncaged,Wild
+DM14022,Sacramento,4/11/2014,2014,M,12.1,-23.27,uncaged,Wild
+DM14024,Sacramento,4/11/2014,2014,M,3.8,-23.16,uncaged,Wild
+DM14025,Sacramento,4/11/2014,2014,M,2.5,-21.16,uncaged,Wild
+DM14026,Sacramento,4/11/2014,2014,M,2.2,-22.94,uncaged,Wild
+DM14027,Sacramento,4/11/2014,2014,M,12.8,-19.83,uncaged,Wild
+DM14042,Sacramento,3/31/2014,2014,M,3.9,-25.16,uncaged,Wild
+DM14051,Sacramento,5/2/2014,2014,M,10.8,-21.1,uncaged,Wild
+DM14052,Sacramento,5/2/2014,2014,M,3.7,-24.65,uncaged,Wild
+DM14053,Sacramento,5/7/2014,2014,M,7.8,-22.28,uncaged,Wild
+DM14054,Sacramento,5/7/2014,2014,M,4.1,-24.98,uncaged,Wild
+DM14059,Sacramento,4/22/2014,2014,M,5.4,-23.96,uncaged,Wild
+DM14063,Sacramento,4/22/2014,2014,M,2.4,-25.13,uncaged,Wild
+DM14064,Sacramento,4/22/2014,2014,M,7,-24.22,uncaged,Wild
+DM14056,Sacramento,3/28/2014,2014,M,2.1,-25.68,uncaged,Wild
+DM14058,Sacramento,3/28/2014,2014,M,7.5,-22.78,uncaged,Wild
+DM14138,Sacramento,3/18/2014,2014,M,10.3,-21.27,uncaged,Wild
+DM14139,Sacramento,3/18/2014,2014,M,10.3,-22.18,uncaged,Wild
+DM14140,Sacramento,3/18/2014,2014,M,7.1,-22.8,uncaged,Wild
+DM14143,Sacramento,4/8/2014,2014,M,10,-21.57,uncaged,Wild
+DM14011,Sacramento,3/6/2014,2014,M,6.9,-24.99,uncaged,Wild
+DM14023,Sacramento,4/11/2014,2014,M,13.2,-19.67,uncaged,Wild
+DM14028,Sacramento,4/11/2014,2014,M,12.2,-20.11,uncaged,Wild
+DM14014,Sacramento,3/12/2014,2014,M,3.4,-25.58,uncaged,Wild
+DM14031,Sacramento,3/13/2014,2014,M,14,-18.61,uncaged,Wild
+DM14043,Sacramento,3/31/2014,2014,M,4.7,-24.11,uncaged,Wild
+DM14044,Sacramento,3/31/2014,2014,M,2.9,-23.16,uncaged,Wild
+DM14045,Sacramento,3/31/2014,2014,M,3.5,-25.33,uncaged,Wild
+NP14001,Yolo Bypass,2/14/2014,2014,M,4.3,-25.16,uncaged,Experimental
+NP14002,Yolo Bypass,2/14/2014,2014,M,3.6,-27.27,uncaged,Experimental
+NP14003,Yolo Bypass,2/14/2014,2014,M,4.1,-25.49,uncaged,Experimental
+NP14004,Yolo Bypass,2/14/2014,2014,M,4.9,-25.28,uncaged,Experimental
+NP14005,Yolo Bypass,2/14/2014,2014,M,3.4,-25.54,uncaged,Experimental
+NP14006,Yolo Bypass,2/14/2014,2014,M,5.6,-26.09,uncaged,Experimental
+NP14007,Yolo Bypass,2/21/2014,2014,M,1.2,-27.99,uncaged,Experimental
+NP14008,Yolo Bypass,2/21/2014,2014,M,0.1,-27.72,uncaged,Experimental
+NP14009,Yolo Bypass,2/21/2014,2014,M,0.3,-29.45,uncaged,Experimental
+NP14010,Yolo Bypass,2/21/2014,2014,M,-0.3,-29.46,uncaged,Experimental
+NP14011,Yolo Bypass,2/21/2014,2014,M,-0.3,-29.51,uncaged,Experimental
+NP14012,Yolo Bypass,2/21/2014,2014,M,0.8,-28.75,uncaged,Experimental
+NP14013,Yolo Bypass,2/28/2014,2014,M,-2.9,-30.71,uncaged,Experimental
+NP14014,Yolo Bypass,2/28/2014,2014,M,-3.1,-30.87,uncaged,Experimental
+NP14015,Yolo Bypass,2/28/2014,2014,M,-1.2,-29.96,uncaged,Experimental
+NP14016,Yolo Bypass,2/28/2014,2014,M,-1.8,-31.04,uncaged,Experimental
+NP14017,Yolo Bypass,2/28/2014,2014,M,-3.2,-29.69,uncaged,Experimental
+NP14018,Yolo Bypass,2/28/2014,2014,M,-1.4,-28.73,uncaged,Experimental
+NP14019,Yolo Bypass,3/7/2014,2014,M,-3.5,-29.44,uncaged,Experimental
+NP14020,Yolo Bypass,3/7/2014,2014,M,-1.9,-30.9,uncaged,Experimental
+NP14021,Yolo Bypass,3/7/2014,2014,M,-4.8,-31.11,uncaged,Experimental
+NP14022,Yolo Bypass,3/7/2014,2014,M,-3.7,-28.81,uncaged,Experimental
+NP14023,Yolo Bypass,3/7/2014,2014,M,-3.8,-31.68,uncaged,Experimental
+NP14024,Yolo Bypass,3/7/2014,2014,M,-3.4,-30.43,uncaged,Experimental
+NP14025,Yolo Bypass,3/13/2014,2014,M,-5.1,-31.59,uncaged,Experimental
+NP14027,Yolo Bypass,3/13/2014,2014,M,-3.9,-31.03,uncaged,Experimental
+NP14028,Yolo Bypass,3/13/2014,2014,M,-4.1,-31.07,uncaged,Experimental
+NP14029,Yolo Bypass,3/13/2014,2014,M,-4.4,-29.71,uncaged,Experimental
+NP14030,Yolo Bypass,3/13/2014,2014,M,-5.5,-30.32,uncaged,Experimental
+DM14007,Sacramento,2/12/2014,2014,S,1.04,-32.57,uncaged,Wild
+DM14008,Sacramento,3/6/2014,2014,S,2.07,-29.7,uncaged,Wild
+DM14016,Sacramento,4/11/2014,2014,S,0.73,-28.87,uncaged,Wild
+DM14017,Sacramento,4/11/2014,2014,S,1.31,-29.54,uncaged,Wild
+DM14018,Sacramento,4/11/2014,2014,S,2.01,-29,uncaged,Wild
+DM14019,Sacramento,4/11/2014,2014,S,1,-28.7,uncaged,Wild
+DM14020,Sacramento,4/11/2014,2014,S,1.59,-28.24,uncaged,Wild
+DM14021,Sacramento,4/11/2014,2014,S,0.41,-26.62,uncaged,Wild
+DM14022,Sacramento,4/11/2014,2014,S,0.16,-29.4,uncaged,Wild
+DM14024,Sacramento,4/11/2014,2014,S,2.27,-27.42,uncaged,Wild
+DM14025,Sacramento,4/11/2014,2014,S,0.06,-29.08,uncaged,Wild
+DM14026,Sacramento,4/11/2014,2014,S,-0.13,-29.66,uncaged,Wild
+DM14027,Sacramento,4/11/2014,2014,S,7.76,-24.76,uncaged,Wild
+DM14042,Sacramento,3/31/2014,2014,S,5.56,-26.38,uncaged,Wild
+DM14051,Sacramento,5/2/2014,2014,S,4.6,-26.3,uncaged,Wild
+DM14052,Sacramento,5/2/2014,2014,S,4.27,-26.51,uncaged,Wild
+DM14053,Sacramento,5/7/2014,2014,S,3.68,-27.93,uncaged,Wild
+DM14054,Sacramento,5/7/2014,2014,S,3.99,-27.56,uncaged,Wild
+DM14059,Sacramento,4/22/2014,2014,S,2.21,-28.05,uncaged,Wild
+DM14063,Sacramento,4/22/2014,2014,S,2.8,-27.53,uncaged,Wild
+DM14064,Sacramento,4/22/2014,2014,S,3.12,-27.69,uncaged,Wild
+DM14056,Sacramento,3/28/2014,2014,S,0.13,-28.37,uncaged,Wild
+DM14058,Sacramento,3/28/2014,2014,S,2.37,-27.73,uncaged,Wild
+DM14138,Sacramento,3/18/2014,2014,S,7.21,-28.27,uncaged,Wild
+DM14139,Sacramento,3/18/2014,2014,S,3.18,-29.86,uncaged,Wild
+DM14140,Sacramento,3/18/2014,2014,S,NA,NA,uncaged,Wild
+DM14143,Sacramento,4/8/2014,2014,S,5.19,-27.66,uncaged,Wild
+DM14011,Sacramento,3/6/2014,2014,S,6.36,-28.5,uncaged,Wild
+DM14023,Sacramento,4/11/2014,2014,S,4.84,-28.5,uncaged,Wild
+DM14028,Sacramento,4/11/2014,2014,S,1.59,-29.12,uncaged,Wild
+DM14014,Sacramento,3/12/2014,2014,S,0.51,-30.78,uncaged,Wild
+DM14031,Sacramento,3/13/2014,2014,S,NA,NA,uncaged,Wild
+DM14043,Sacramento,3/31/2014,2014,S,-0.48,-29.41,uncaged,Wild
+DM14044,Sacramento,3/31/2014,2014,S,-1.94,-29.69,uncaged,Wild
+DM14045,Sacramento,3/31/2014,2014,S,4.26,-26.29,uncaged,Wild
+NP14001,Yolo Bypass,2/14/2014,2014,S,-4.12,-32.75,uncaged,Experimental
+NP14002,Yolo Bypass,2/14/2014,2014,S,-1.27,-31.79,uncaged,Experimental
+NP14003,Yolo Bypass,2/14/2014,2014,S,-3.5,-32.49,uncaged,Experimental
+NP14004,Yolo Bypass,2/14/2014,2014,S,-2.72,-31.89,uncaged,Experimental
+NP14005,Yolo Bypass,2/14/2014,2014,S,-2.68,-32.05,uncaged,Experimental
+NP14006,Yolo Bypass,2/14/2014,2014,S,-1.38,-30.76,uncaged,Experimental
+NP14007,Yolo Bypass,2/21/2014,2014,S,-0.8,-31.62,uncaged,Experimental
+NP14008,Yolo Bypass,2/21/2014,2014,S,0,-31.59,uncaged,Experimental
+NP14009,Yolo Bypass,2/21/2014,2014,S,-1.12,-34.32,uncaged,Experimental
+NP14010,Yolo Bypass,2/21/2014,2014,S,-1.84,-32.18,uncaged,Experimental
+NP14011,Yolo Bypass,2/21/2014,2014,S,-1.33,-32.81,uncaged,Experimental
+NP14012,Yolo Bypass,2/21/2014,2014,S,-0.7,-31.12,uncaged,Experimental
+NP14014,Yolo Bypass,2/28/2014,2014,S,-0.98,-38.32,uncaged,Experimental
+NP14015,Yolo Bypass,2/28/2014,2014,S,-1.73,-35.05,uncaged,Experimental
+NP14016,Yolo Bypass,2/28/2014,2014,S,-4.69,-37.23,uncaged,Experimental
+NP14017,Yolo Bypass,2/28/2014,2014,S,-4.57,-33.64,uncaged,Experimental
+NP14018,Yolo Bypass,2/28/2014,2014,S,-1.99,-32.63,uncaged,Experimental
+NP14019,Yolo Bypass,3/7/2014,2014,S,-4.69,-34.32,uncaged,Experimental
+NP14020,Yolo Bypass,3/7/2014,2014,S,-2.3,-35.61,uncaged,Experimental
+NP14021,Yolo Bypass,3/7/2014,2014,S,-4.68,-34.61,uncaged,Experimental
+NP14022,Yolo Bypass,3/7/2014,2014,S,-5.91,-34.17,uncaged,Experimental
+NP14023,Yolo Bypass,3/7/2014,2014,S,-5.91,-35.24,uncaged,Experimental
+NP14024,Yolo Bypass,3/7/2014,2014,S,-5.05,-35.96,uncaged,Experimental
+NP14025,Yolo Bypass,3/13/2014,2014,S,-4.14,-35.4,uncaged,Experimental
+NP14027,Yolo Bypass,3/13/2014,2014,S,-4.75,-34.2,uncaged,Experimental
+NP14028,Yolo Bypass,3/13/2014,2014,S,-3.83,-34.63,uncaged,Experimental
+NP14029,Yolo Bypass,3/13/2014,2014,S,-5.76,-32.78,uncaged,Experimental
+NP14030,Yolo Bypass,3/13/2014,2014,S,-5.86,-33,uncaged,Experimental
+DM15001,Sacramento,5/13/2015,2015,M,-1.6,-21.19,uncaged,Experimental
+DM15002,Sacramento,5/13/2015,2015,M,-1.2,-24.7,uncaged,Wild
+DM15006,Sacramento,5/16/2015,2015,M,4,-26.21,uncaged,Wild
+DM15009,Sacramento,4/10/2015,2015,M,2.2,-25.95,uncaged,Wild
+DM15010,Sacramento,4/10/2015,2015,M,-1.1,-19.69,uncaged,Wild
+DM15012,Sacramento,4/27/2015,2015,M,-0.8,-23.21,uncaged,Wild
+DM15017,Sacramento,4/24/2015,2015,M,-1,-19.53,uncaged,Wild
+DM15019,Sacramento,4/20/2015,2015,M,-1.1,-19.4,uncaged,Wild
+DM15020,Sacramento,5/11/2015,2015,M,-2.1,-17.58,uncaged,Wild
+DM15022,Sacramento,4/13/2015,2015,M,-0.9,-20.33,uncaged,Wild
+DM15023,Sacramento,4/13/2015,2015,M,-1.2,-19.83,uncaged,Wild
+DM15028,Sacramento,4/3/2015,2015,M,-0.8,-21.15,uncaged,Wild
+DM15029,Sacramento,4/3/2015,2015,M,12.2,-20.18,uncaged,Wild
+DM15030,Sacramento,2/9/2015,2015,M,15.2,-18.33,uncaged,Wild
+DM15032,Sacramento,2/20/2015,2015,M,8.8,-20.95,uncaged,Wild
+DM15040,Sacramento,1/20/2015,2015,M,8.4,-22.49,uncaged,Wild
+DM15044,Sacramento,2/10/2015,2015,M,7.4,-24.37,uncaged,Wild
+DM15045,Sacramento,2/10/2015,2015,M,4.7,-25.26,uncaged,Wild
+DM15049,Sacramento,3/5/2015,2015,M,6.6,-26.12,uncaged,Wild
+DM15050,Sacramento,2/24/2015,2015,M,10,-21.91,uncaged,Wild
+DM15052,Sacramento,2/17/2015,2015,M,10.9,-20.83,uncaged,Wild
+DM15053,Sacramento,2/17/2015,2015,M,13.6,-19.43,uncaged,Wild
+DM15056,Sacramento,3/10/2015,2015,M,8.7,-23.14,uncaged,Wild
+DM15058,Sacramento,3/17/2015,2015,M,6.4,-24.13,uncaged,Wild
+DM15059,Sacramento,3/17/2015,2015,M,4.3,-24.41,uncaged,Wild
+DM15060,Sacramento,1/6/2015,2015,M,8.4,-23.01,uncaged,Wild
+DM15062,Sacramento,2/26/2015,2015,M,8.9,-24,uncaged,Wild
+DM15063,Sacramento,2/19/2015,2015,M,9.2,-21.64,uncaged,Wild
+DM15064,Sacramento,2/19/2015,2015,M,8.5,-23.33,uncaged,Wild
+DM15065,Sacramento,3/24/2015,2015,M,3.1,-26.55,uncaged,Wild
+DM15066,Sacramento,3/24/2015,2015,M,2.3,-25.92,uncaged,Wild
+DM15071,Sacramento,3/3/2015,2015,M,9.1,-22.24,uncaged,Wild
+DM15073,Sacramento,3/3/2015,2015,M,8.3,-23.23,uncaged,Wild
+DM15074,Sacramento,3/3/2015,2015,M,9.3,-21.94,uncaged,Wild
+DM15078,Sacramento,3/20/2015,2015,M,6.5,-22.58,uncaged,Wild
+DM15091,Sacramento,3/17/2015,2015,M,1.4,-23.65,uncaged,Wild
+DM15092,Sacramento,3/17/2015,2015,M,1.7,-22.88,uncaged,Wild
+DM15094,Sacramento,2/9/2015,2015,M,3.6,-23.38,uncaged,Wild
+DM15097,Sacramento,3/23/2015,2015,M,4.9,-23.47,uncaged,Wild
+DM15098,Sacramento,4/14/2015,2015,M,-0.8,-20.76,uncaged,Wild
+DM15101,Sacramento,4/9/2015,2015,M,-1.1,-20.32,uncaged,Wild
+DM15102,Sacramento,3/6/2015,2015,M,7.6,-20.97,uncaged,Wild
+DM15103,Sacramento,3/6/2015,2015,M,4.7,-23.4,uncaged,Wild
+NP15001,Yolo Bypass,2/15/2015,2015,M,0.8,-30.35,uncaged,Experimental
+NP15002,Yolo Bypass,2/15/2015,2015,M,4.7,-26.5,uncaged,Experimental
+NP15003,Yolo Bypass,2/15/2015,2015,M,5.4,-26.48,uncaged,Experimental
+NP15004,Yolo Bypass,2/15/2015,2015,M,NA,-27.88,uncaged,Experimental
+NP15005,Yolo Bypass,2/15/2015,2015,M,1.6,-27.78,uncaged,Experimental
+NP15006,Yolo Bypass,2/15/2015,2015,M,4.3,-26.28,uncaged,Experimental
+NP15007,Yolo Bypass,2/15/2015,2015,M,5.7,-26.36,uncaged,Experimental
+NP15009,Yolo Bypass,2/15/2015,2015,M,2.2,-27.64,uncaged,Experimental
+NP15010,Yolo Bypass,2/15/2015,2015,M,4.2,-26.05,uncaged,Experimental
+NP15011,Yolo Bypass,2/22/2015,2015,M,-1,-29.19,uncaged,Experimental
+NP15012,Yolo Bypass,2/22/2015,2015,M,-0.8,-29.27,uncaged,Experimental
+NP15013,Yolo Bypass,2/22/2015,2015,M,-3.2,-29.86,uncaged,Experimental
+NP15014,Yolo Bypass,2/22/2015,2015,M,-3.9,-30.94,uncaged,Experimental
+NP15015,Yolo Bypass,2/22/2015,2015,M,1.2,-28.04,uncaged,Experimental
+NP15016,Yolo Bypass,2/22/2015,2015,M,-1.3,-29.63,uncaged,Experimental
+NP15017,Yolo Bypass,2/22/2015,2015,M,-1.1,-28.87,uncaged,Experimental
+NP15018,Yolo Bypass,2/22/2015,2015,M,-2.6,-29.36,uncaged,Experimental
+NP15019,Yolo Bypass,2/22/2015,2015,M,0.8,-29.34,uncaged,Experimental
+NP15021,Yolo Bypass,2/22/2015,2015,M,-0.2,-29.52,uncaged,Experimental
+NP15022,Yolo Bypass,2/27/2015,2015,M,-0.8,-28.53,uncaged,Experimental
+NP15023,Yolo Bypass,2/27/2015,2015,M,-0.9,-28.67,uncaged,Experimental
+NP15024,Yolo Bypass,2/27/2015,2015,M,-2.2,-29.89,uncaged,Experimental
+NP15025,Yolo Bypass,2/27/2015,2015,M,-2.9,-30.44,uncaged,Experimental
+NP15026,Yolo Bypass,2/27/2015,2015,M,-1.4,-28.93,uncaged,Experimental
+NP15027,Yolo Bypass,2/27/2015,2015,M,-3.9,-30.05,uncaged,Experimental
+NP15028,Yolo Bypass,2/27/2015,2015,M,-3,-30.42,uncaged,Experimental
+NP15029,Yolo Bypass,2/27/2015,2015,M,-3.5,-30.39,uncaged,Experimental
+NP15030,Yolo Bypass,2/27/2015,2015,M,-3.1,-29.64,uncaged,Experimental
+DM15001,Sacramento,5/13/2015,2015,S,-0.8,-27.99,uncaged,Wild
+DM15002,Sacramento,5/13/2015,2015,S,-1.33,-28.03,uncaged,Wild
+DM15006,Sacramento,5/16/2015,2015,S,-0.78,-27.24,uncaged,Wild
+DM15009,Sacramento,4/10/2015,2015,S,-0.2,-27.79,uncaged,Wild
+DM15010,Sacramento,4/10/2015,2015,S,-1.48,-29.26,uncaged,Wild
+DM15012,Sacramento,4/27/2015,2015,S,-1.84,-24.99,uncaged,Wild
+DM15017,Sacramento,4/24/2015,2015,S,-0.93,-25.28,uncaged,Wild
+DM15019,Sacramento,4/20/2015,2015,S,-1.19,-28.77,uncaged,Wild
+DM15020,Sacramento,5/11/2015,2015,S,-1.93,-23.54,uncaged,Wild
+DM15022,Sacramento,4/13/2015,2015,S,-2.05,-29.69,uncaged,Wild
+DM15023,Sacramento,4/13/2015,2015,S,-1.23,-28.24,uncaged,Wild
+DM15028,Sacramento,4/3/2015,2015,S,-0.02,-29.09,uncaged,Wild
+DM15029,Sacramento,4/3/2015,2015,S,1.6,-28.12,uncaged,Wild
+DM15030,Sacramento,2/9/2015,2015,S,2.23,-28.97,uncaged,Wild
+DM15032,Sacramento,2/20/2015,2015,S,6.22,-29.26,uncaged,Wild
+DM15040,Sacramento,1/20/2015,2015,S,2.93,-25.51,uncaged,Wild
+DM15044,Sacramento,2/10/2015,2015,S,2.69,-29.42,uncaged,Wild
+DM15045,Sacramento,2/10/2015,2015,S,3.15,-32.94,uncaged,Wild
+DM15049,Sacramento,3/5/2015,2015,S,3.04,-28.43,uncaged,Wild
+DM15050,Sacramento,2/24/2015,2015,S,3.24,-29.23,uncaged,Wild
+DM15052,Sacramento,2/17/2015,2015,S,5.49,-26.86,uncaged,Wild
+DM15053,Sacramento,2/17/2015,2015,S,3.18,-28.19,uncaged,Wild
+DM15056,Sacramento,3/10/2015,2015,S,2.48,-28.44,uncaged,Wild
+DM15058,Sacramento,3/17/2015,2015,S,1.72,-29.34,uncaged,Wild
+DM15059,Sacramento,3/17/2015,2015,S,3.32,-28.85,uncaged,Wild
+DM15060,Sacramento,1/6/2015,2015,S,-0.49,-31.79,uncaged,Wild
+DM15062,Sacramento,2/26/2015,2015,S,4.96,-36.48,uncaged,Wild
+DM15063,Sacramento,2/19/2015,2015,S,3.79,-30.11,uncaged,Wild
+DM15064,Sacramento,2/19/2015,2015,S,3.98,-31.16,uncaged,Wild
+DM15065,Sacramento,3/24/2015,2015,S,0.41,-27.73,uncaged,Wild
+DM15066,Sacramento,3/24/2015,2015,S,0.56,-28.14,uncaged,Wild
+DM15071,Sacramento,3/3/2015,2015,S,3.56,-29.39,uncaged,Wild
+DM15073,Sacramento,3/3/2015,2015,S,2.96,-30.33,uncaged,Wild
+DM15074,Sacramento,3/3/2015,2015,S,3.14,-29.58,uncaged,Wild
+DM15078,Sacramento,3/20/2015,2015,S,2.73,-27.74,uncaged,Wild
+DM15091,Sacramento,3/17/2015,2015,S,-0.18,-25.18,uncaged,Wild
+DM15092,Sacramento,3/17/2015,2015,S,0.84,-26.64,uncaged,Wild
+DM15094,Sacramento,2/9/2015,2015,S,1.06,-29.06,uncaged,Wild
+DM15097,Sacramento,3/23/2015,2015,S,4.87,-26.76,uncaged,Wild
+DM15098,Sacramento,4/14/2015,2015,S,-0.94,-22.57,uncaged,Wild
+DM15101,Sacramento,4/9/2015,2015,S,-1.46,-25.89,uncaged,Wild
+DM15102,Sacramento,3/6/2015,2015,S,0.74,-22.17,uncaged,Wild
+DM15103,Sacramento,3/6/2015,2015,S,2.33,-28.58,uncaged,Wild
+NP15001,Yolo Bypass,2/15/2015,2015,S,-4.1,-31.62,uncaged,Experimental
+NP15002,Yolo Bypass,2/15/2015,2015,S,2.46,-32.53,uncaged,Experimental
+NP15003,Yolo Bypass,2/15/2015,2015,S,-0.92,-32.66,uncaged,Experimental
+NP15004,Yolo Bypass,2/15/2015,2015,S,-6.09,-33.45,uncaged,Experimental
+NP15005,Yolo Bypass,2/15/2015,2015,S,-7.28,-32.96,uncaged,Experimental
+NP15006,Yolo Bypass,2/15/2015,2015,S,-3.39,-32.52,uncaged,Experimental
+NP15007,Yolo Bypass,2/15/2015,2015,S,-5.59,-34.28,uncaged,Experimental
+NP15009,Yolo Bypass,2/15/2015,2015,S,NA,NA,uncaged,Experimental
+NP15010,Yolo Bypass,2/15/2015,2015,S,-6.7,-30.96,uncaged,Experimental
+NP15011,Yolo Bypass,2/22/2015,2015,S,-5.28,-35.92,uncaged,Experimental
+NP15012,Yolo Bypass,2/22/2015,2015,S,-7.95,-35.27,uncaged,Experimental
+NP15013,Yolo Bypass,2/22/2015,2015,S,-9.95,-33.33,uncaged,Experimental
+NP15014,Yolo Bypass,2/22/2015,2015,S,-5.35,-31.34,uncaged,Experimental
+NP15015,Yolo Bypass,2/22/2015,2015,S,-8.11,-34.69,uncaged,Experimental
+NP15016,Yolo Bypass,2/22/2015,2015,S,-7.41,-35.59,uncaged,Experimental
+NP15017,Yolo Bypass,2/22/2015,2015,S,-5.6,-31.85,uncaged,Experimental
+NP15018,Yolo Bypass,2/22/2015,2015,S,-9.33,-34.13,uncaged,Experimental
+NP15019,Yolo Bypass,2/22/2015,2015,S,-5.85,-34.3,uncaged,Experimental
+NP15021,Yolo Bypass,2/22/2015,2015,S,-7.84,-35.68,uncaged,Experimental
+NP15022,Yolo Bypass,2/27/2015,2015,S,-7.52,-32.37,uncaged,Experimental
+NP15023,Yolo Bypass,2/27/2015,2015,S,-6.15,-34.56,uncaged,Experimental
+NP15024,Yolo Bypass,2/27/2015,2015,S,-6.47,-33.69,uncaged,Experimental
+NP15025,Yolo Bypass,2/27/2015,2015,S,-7.58,-33.83,uncaged,Experimental
+NP15026,Yolo Bypass,2/27/2015,2015,S,-3.8,-36.26,uncaged,Experimental
+NP15027,Yolo Bypass,2/27/2015,2015,S,-5.29,-33.54,uncaged,Experimental
+NP15028,Yolo Bypass,2/27/2015,2015,S,-7.33,-34.22,uncaged,Experimental
+NP15029,Yolo Bypass,2/27/2015,2015,S,-5.84,-30.23,uncaged,Experimental
+NP15030,Yolo Bypass,2/27/2015,2015,S,-5.9,-30.17,uncaged,Experimental
+DM16015,Sacramento,3/3/2016,2016,M,14.13,-17.82,uncaged,Wild
+DM16016,Sacramento,3/11/2016,2016,M,5.6,-24.2,uncaged,Wild
+DM16019,Sacramento,4/18/2016,2016,M,11.5,-20.25,uncaged,Wild
+DM16020,Sacramento,4/8/2016,2016,M,6.1,-21.78,uncaged,Wild
+DM16022,Sacramento,4/29/2016,2016,M,13.8,-19.62,uncaged,Wild
+DM16023,Sacramento,3/11/2016,2016,M,4.8,-22.32,uncaged,Wild
+DM16027,Sacramento,5/2/2016,2016,M,7.56,-21.14,uncaged,Wild
+DM16027,Sacramento,5/2/2016,2016,M,7.56,-21.14,uncaged,Wild
+DM16028,Sacramento,5/9/2016,2016,M,1.1,-22.75,uncaged,Wild
+DM16029,Sacramento,3/25/2016,2016,M,1.8,-22.48,uncaged,Wild
+DM16033,Sacramento,3/21/2016,2016,M,10.2,-20.15,uncaged,Wild
+DM16034,Sacramento,2/16/2016,2016,M,5.3,-26.94,uncaged,Wild
+DM16036,Sacramento,3/21/2016,2016,M,7.6,-21.3,uncaged,Wild
+DM16037,Sacramento,5/11/2016,2016,M,5.8,-23.53,uncaged,Wild
+DM16040,Sacramento,4/1/2016,2016,M,2.9,-24.07,uncaged,Wild
+DM16042,Sacramento,4/25/2016,2016,M,-1.1,-21.37,uncaged,Wild
+DM16044,Sacramento,4/18/2016,2016,M,12.5,-20.06,uncaged,Wild
+DM16047,Sacramento,4/7/2016,2016,M,4.9,-26.04,uncaged,Wild
+DM16048,Sacramento,2/8/2016,2016,M,-4.22,-33.82,uncaged,Wild
+DM16049,Sacramento,4/18/2016,2016,M,12.6,-19.8,uncaged,Wild
+DM16050,Sacramento,5/11/2016,2016,M,-1.6,-20.2,uncaged,Wild
+DM16150,Sacramento,5/11/2016,2016,M,3.4,-25.9,uncaged,Wild
+DM16051,Sacramento,4/1/2016,2016,M,-3.92,-32.93,uncaged,Wild
+DM16052,Sacramento,4/1/2016,2016,M,10.9,-20.26,uncaged,Wild
+DM16052,Sacramento,4/1/2016,2016,M,10.9,-20.26,uncaged,Wild
+DM16053,Sacramento,5/9/2016,2016,M,-1.39,-20.85,uncaged,Wild
+DM16060,Sacramento,5/16/2016,2016,M,15.7,-16.78,uncaged,Wild
+DM16060,Sacramento,5/16/2016,2016,M,15.7,-16.78,uncaged,Wild
+DM16062,Sacramento,5/11/2016,2016,M,-0.72,-22.39,uncaged,Wild
+DM16062,Sacramento,5/11/2016,2016,M,-0.72,-22.39,uncaged,Wild
+DM16063,Sacramento,3/16/2016,2016,M,10.8,-20.66,uncaged,Wild
+DM16065,Sacramento,2/8/2016,2016,M,7.85,-23.67,uncaged,Wild
+DM16066,Sacramento,4/11/2016,2016,M,6.09,-26.94,uncaged,Wild
+DM16066,Sacramento,4/11/2016,2016,M,6.09,-26.94,uncaged,Wild
+DM16068,Sacramento,4/15/2016,2016,M,12.7,-20.2,uncaged,Wild
+DM16075,Sacramento,4/8/2016,2016,M,8.65,-21.21,uncaged,Wild
+DM16076,Sacramento,2/24/2016,2016,M,13.46,-21.49,uncaged,Wild
+DM16077,Sacramento,2/24/2016,2016,M,16.85,-18.53,uncaged,Wild
+DM16080,Sacramento,4/18/2016,2016,M,13,-21.35,uncaged,Wild
+DM16080,Sacramento,4/18/2016,2016,M,13,-21.35,uncaged,Wild
+DM16081,Sacramento,2/18/2016,2016,M,11.99,-22.68,uncaged,Wild
+DM16082,Sacramento,4/15/2016,2016,M,13.7,-19.81,uncaged,Wild
+DM16083,Sacramento,2/18/2016,2016,M,11.34,-22.7,uncaged,Wild
+DM16084,Sacramento,3/3/2016,2016,M,7.6,-23.03,uncaged,Wild
+DM16085,Sacramento,3/11/2016,2016,M,4.05,-25.24,uncaged,Wild
+DM16086,Sacramento,3/15/2016,2016,M,16.55,-17.25,uncaged,Wild
+DM16087,Sacramento,2/24/2016,2016,M,14.75,-18.01,uncaged,Wild
+DM16088,Sacramento,3/3/2016,2016,M,13.39,-18.62,uncaged,Wild
+DM16147,Sacramento,3/28/2016,2016,M,0.5,-23.13,uncaged,Wild
+DM16152,Sacramento,2/5/2016,2016,M,8.3,-22.24,uncaged,Wild
+DM16153,Sacramento,2/18/2016,2016,M,4.9,-26.44,uncaged,Wild
+DM16155,Sacramento,4/7/2016,2016,M,2.3,-26.81,uncaged,Wild
+DM16156,Sacramento,3/15/2016,2016,M,12.2,-20.07,uncaged,Wild
+DM16159,Sacramento,4/29/2016,2016,M,12.8,-19.92,uncaged,Wild
+DM16160,Sacramento,2/18/2016,2016,M,6.4,-25.57,uncaged,Wild
+DM16162,Sacramento,2/5/2016,2016,M,13.3,-19.71,uncaged,Wild
+DM16163,Sacramento,2/5/2016,2016,M,13,-18.02,uncaged,Wild
+DM16164,Sacramento,2/12/2016,2016,M,14.6,-19.19,uncaged,Wild
+NP16003,Yolo Bypass,3/7/2016,2016,M,-3.5,-33.72,uncaged,Experimental
+NP16004,Yolo Bypass,3/7/2016,2016,M,-3.8,-34.34,uncaged,Experimental
+NP16005,Yolo Bypass,3/1/2016,2016,M,-4.4,-34.41,uncaged,Experimental
+NP16007,Yolo Bypass,2/16/2016,2016,M,2.9,-28.09,uncaged,Experimental
+NP16010,Yolo Bypass,2/15/2016,2016,M,1.6,-32.08,uncaged,Experimental
+NP16011,Yolo Bypass,2/22/2016,2016,M,-1.1,-31.12,uncaged,Experimental
+NP16012,Yolo Bypass,2/22/2016,2016,M,-1.3,-31.84,uncaged,Experimental
+NP16013,Yolo Bypass,2/22/2016,2016,M,-2.9,-32.78,uncaged,Experimental
+NP16014,Yolo Bypass,2/22/2016,2016,M,-2.6,-32.25,uncaged,Experimental
+NP16015,Yolo Bypass,2/22/2016,2016,M,-1.8,-32.12,uncaged,Experimental
+NP16016,Yolo Bypass,2/9/2016,2016,M,7.7,-26.01,uncaged,Experimental
+NP16021,Yolo Bypass,2/29/2016,2016,M,-3.1,-34.47,uncaged,Experimental
+NP16022,Yolo Bypass,2/29/2016,2016,M,-3.2,-33.29,uncaged,Experimental
+NP16024,Yolo Bypass,2/29/2016,2016,M,-2.9,-31.97,uncaged,Experimental
+NP16025,Yolo Bypass,2/29/2016,2016,M,-3.9,-33.04,uncaged,Experimental
+NP16026,Yolo Bypass,3/10/2016,2016,M,-5.6,-35.44,uncaged,Experimental
+NP16026,Yolo Bypass,3/10/2016,2016,M,-5.6,-35.44,uncaged,Experimental
+NP16027,Yolo Bypass,3/10/2016,2016,M,-5.3,-34.77,uncaged,Experimental
+NP16027,Yolo Bypass,3/10/2016,2016,M,-5.3,-34.77,uncaged,Experimental
+NP16028,Yolo Bypass,3/10/2016,2016,M,-5.2,-34.42,uncaged,Experimental
+NP16029,Yolo Bypass,3/10/2016,2016,M,-4.4,-34.9,uncaged,Experimental
+NP16034,Yolo Bypass,3/11/2016,2016,M,-1,-29.15,uncaged,Experimental
+NP16035,Yolo Bypass,3/11/2016,2016,M,-0.89,-28.47,uncaged,Experimental
+NP16035,Yolo Bypass,3/11/2016,2016,M,-0.89,-28.47,uncaged,Experimental
+NP16036,Yolo Bypass,3/11/2016,2016,M,-1.87,-28.53,uncaged,Experimental
+NP16037,Yolo Bypass,3/11/2016,2016,M,-1.3,-29.36,uncaged,Experimental
+NP16037,Yolo Bypass,3/11/2016,2016,M,-1.3,-29.36,uncaged,Experimental
+NP16037,Yolo Bypass,3/11/2016,2016,M,-1.3,-29.36,uncaged,Experimental
+NP16038,Yolo Bypass,4/7/2016,2016,M,-2.2,-28.08,uncaged,Wild
+NP16038,Yolo Bypass,4/7/2016,2016,M,-2.2,-28.08,uncaged,Wild
+NP16039,Yolo Bypass,4/6/2016,2016,M,-4.3,-31.61,uncaged,Wild
+NP16040,Yolo Bypass,3/29/2016,2016,M,2.71,-25.21,uncaged,Wild
+NP16041,Yolo Bypass,4/1/2016,2016,M,-0.81,-29.09,uncaged,Wild
+NP16042,Yolo Bypass,4/1/2016,2016,M,-0.53,-28.9,uncaged,Wild
+NP16043,Yolo Bypass,4/1/2016,2016,M,-1.8,-28.01,uncaged,Wild
+NP16044,Yolo Bypass,4/5/2016,2016,M,-2.4,-30.11,uncaged,Wild
+NP16045,Yolo Bypass,4/5/2016,2016,M,-3.02,-28.82,uncaged,Wild
+NP16046,Yolo Bypass,4/4/2016,2016,M,-1.03,-27.36,uncaged,Wild
+NP16047,Yolo Bypass,4/6/2016,2016,M,-2.4,-30.17,uncaged,Wild
+NP16048,Yolo Bypass,4/5/2016,2016,M,-2.8,-29.25,uncaged,Wild
+NP16049,Yolo Bypass,4/7/2016,2016,M,-4.6,-31.16,uncaged,Wild
+NP16050,Yolo Bypass,4/7/2016,2016,M,-1.25,-28.23,uncaged,Wild
+NP16051,Yolo Bypass,4/6/2016,2016,M,-2,-28.46,uncaged,Wild
+NP16052,Yolo Bypass,4/7/2016,2016,M,-2.1,-26.73,uncaged,Wild
+NP16053,Yolo Bypass,4/6/2016,2016,M,1.58,-26.19,uncaged,Wild
+NP16054,Yolo Bypass,4/7/2016,2016,M,-2.35,-27.46,uncaged,Wild
+NP16055,Yolo Bypass,4/7/2016,2016,M,-2.8,-28.27,uncaged,Wild
+NP16056,Yolo Bypass,4/6/2016,2016,M,-0.02,-27.55,uncaged,Wild
+NP16057,Yolo Bypass,4/6/2016,2016,M,-0.18,-28.06,uncaged,Wild
+NP16058,Yolo Bypass,4/6/2016,2016,M,-4.3,-32.77,uncaged,Wild
+NP16100,Yolo Bypass,2/29/2016,2016,M,-3.1,-32.25,uncaged,Experimental
+NP16102,Yolo Bypass,3/7/2016,2016,M,-5.3,-33.42,uncaged,Experimental
+NP16103,Yolo Bypass,3/7/2016,2016,M,-5,-33.41,uncaged,Experimental
+NP16104,Yolo Bypass,2/16/2016,2016,M,0,-30.91,uncaged,Experimental
+NP16105,Yolo Bypass,2/16/2016,2016,M,1.3,-30.42,uncaged,Experimental
+NP16110,Yolo Bypass,2/9/2016,2016,M,8.2,-23.87,uncaged,Experimental
+NP16111,Yolo Bypass,2/9/2016,2016,M,8,-26.23,uncaged,Experimental
+NP16112,Yolo Bypass,2/9/2016,2016,M,6.5,-26.19,uncaged,Experimental
+NP16114,Yolo Bypass,3/10/2016,2016,M,-5.4,-34.15,uncaged,Experimental
+NP16115,Yolo Bypass,2/16/2016,2016,M,0.8,-30.24,uncaged,Experimental
+NP16201,Sacramento,4/18/2016,2016,M,7.8,-22.99,caged,Experimental
+NP16205,Sacramento,4/18/2016,2016,M,10.1,-21.85,caged,Experimental
+NP16207,Sacramento,4/18/2016,2016,M,6.5,-23.46,caged,Experimental
+NP16208,Sacramento,4/18/2016,2016,M,6.6,-24.03,caged,Experimental
+NP16209,Sacramento,4/18/2016,2016,M,8.2,-23.26,caged,Experimental
+DM16015,Sacramento,3/3/2016,2016,S,3.67,-25.53,uncaged,Wild
+DM16016,Sacramento,3/11/2016,2016,S,1.3,-25.85,uncaged,Wild
+DM16019,Sacramento,4/18/2016,2016,S,3.67,-27.6,uncaged,Wild
+DM16020,Sacramento,4/8/2016,2016,S,1.32,-29.13,uncaged,Wild
+DM16022,Sacramento,4/29/2016,2016,S,3.74,-27.47,uncaged,Wild
+DM16023,Sacramento,3/11/2016,2016,S,0.25,-25.74,uncaged,Wild
+DM16027,Sacramento,5/2/2016,2016,S,2.81,-29.73,uncaged,Wild
+DM16027,Sacramento,5/2/2016,2016,S,2.04,-30.44,uncaged,Wild
+DM16028,Sacramento,5/9/2016,2016,S,-0.43,-28.23,uncaged,Wild
+DM16029,Sacramento,3/25/2016,2016,S,-0.78,-30.12,uncaged,Wild
+DM16033,Sacramento,3/21/2016,2016,S,1.45,-26.8,uncaged,Wild
+DM16034,Sacramento,2/16/2016,2016,S,-1.55,-28.39,uncaged,Wild
+DM16036,Sacramento,3/21/2016,2016,S,-0.92,-27.72,uncaged,Wild
+DM16037,Sacramento,5/11/2016,2016,S,0.38,-30.12,uncaged,Wild
+DM16040,Sacramento,4/1/2016,2016,S,0.54,-32.27,uncaged,Wild
+DM16042,Sacramento,4/25/2016,2016,S,4.12,-26.22,uncaged,Wild
+DM16044,Sacramento,4/18/2016,2016,S,5.66,-26.4,uncaged,Wild
+DM16047,Sacramento,4/7/2016,2016,S,3.47,-29.19,uncaged,Wild
+DM16048,Sacramento,2/8/2016,2016,S,4.47,-28.6,uncaged,Wild
+DM16049,Sacramento,4/18/2016,2016,S,2.79,-27.66,uncaged,Wild
+DM16050,Sacramento,5/11/2016,2016,S,0.16,-28.11,uncaged,Wild
+DM16150,Sacramento,5/11/2016,2016,S,7.27,-29.23,uncaged,Wild
+DM16051,Sacramento,4/1/2016,2016,S,1.27,-29.35,uncaged,Wild
+DM16052,Sacramento,4/1/2016,2016,S,1.8,-28.74,uncaged,Wild
+DM16052,Sacramento,4/1/2016,2016,S,1.64,-28.46,uncaged,Wild
+DM16053,Sacramento,5/9/2016,2016,S,1,-27.97,uncaged,Wild
+DM16060,Sacramento,5/16/2016,2016,S,3.44,-26.79,uncaged,Wild
+DM16060,Sacramento,5/16/2016,2016,S,3.53,-26.8,uncaged,Wild
+DM16062,Sacramento,5/11/2016,2016,S,0.18,-27.41,uncaged,Wild
+DM16062,Sacramento,5/11/2016,2016,S,1.03,-27.46,uncaged,Wild
+DM16063,Sacramento,3/16/2016,2016,S,-1.54,-24.6,uncaged,Wild
+DM16065,Sacramento,2/8/2016,2016,S,2.72,-27.96,uncaged,Wild
+DM16066,Sacramento,4/11/2016,2016,S,1.44,-29.12,uncaged,Wild
+DM16066,Sacramento,4/11/2016,2016,S,0.76,-28.9,uncaged,Wild
+DM16068,Sacramento,4/15/2016,2016,S,3.88,-26.65,uncaged,Wild
+DM16075,Sacramento,4/8/2016,2016,S,NA,NA,uncaged,Wild
+DM16076,Sacramento,2/24/2016,2016,S,2.59,-27.92,uncaged,Wild
+DM16077,Sacramento,2/24/2016,2016,S,5.41,-25.93,uncaged,Wild
+DM16080,Sacramento,4/18/2016,2016,S,3.44,-27.38,uncaged,Wild
+DM16080,Sacramento,4/18/2016,2016,S,4.02,-27.07,uncaged,Wild
+DM16081,Sacramento,2/18/2016,2016,S,3.85,-30.26,uncaged,Wild
+DM16082,Sacramento,4/15/2016,2016,S,4.8,-27.68,uncaged,Wild
+DM16083,Sacramento,2/18/2016,2016,S,6.16,-29.76,uncaged,Wild
+DM16084,Sacramento,3/3/2016,2016,S,3.81,-26.97,uncaged,Wild
+DM16085,Sacramento,3/11/2016,2016,S,0.95,-28.21,uncaged,Wild
+DM16086,Sacramento,3/15/2016,2016,S,8.35,-25.68,uncaged,Wild
+DM16087,Sacramento,2/24/2016,2016,S,2.61,-25.65,uncaged,Wild
+DM16088,Sacramento,3/3/2016,2016,S,12.08,-25.63,uncaged,Wild
+DM16147,Sacramento,3/28/2016,2016,S,NA,NA,uncaged,Wild
+DM16152,Sacramento,2/5/2016,2016,S,NA,-30.38,uncaged,Wild
+DM16153,Sacramento,2/18/2016,2016,S,NA,-28.94,uncaged,Wild
+DM16155,Sacramento,4/7/2016,2016,S,NA,-30.47,uncaged,Wild
+DM16156,Sacramento,3/15/2016,2016,S,NA,-26.56,uncaged,Wild
+DM16159,Sacramento,4/29/2016,2016,S,NA,-27.4,uncaged,Wild
+DM16160,Sacramento,2/18/2016,2016,S,NA,-28.92,uncaged,Wild
+DM16162,Sacramento,2/5/2016,2016,S,NA,NA,uncaged,Wild
+DM16163,Sacramento,2/5/2016,2016,S,NA,-25.66,uncaged,Wild
+DM16164,Sacramento,2/12/2016,2016,S,NA,NA,uncaged,Wild
+NP16003,Yolo Bypass,3/7/2016,2016,S,NA,NA,uncaged,Experimental
+NP16004,Yolo Bypass,3/7/2016,2016,S,NA,NA,uncaged,Experimental
+NP16005,Yolo Bypass,3/7/2016,2016,S,-3.68,-34.43,uncaged,Experimental
+NP16007,Yolo Bypass,2/16/2016,2016,S,-3.23,-35.06,uncaged,Experimental
+NP16010,Yolo Bypass,2/15/2016,2016,S,-1.18,-34.66,uncaged,Experimental
+NP16011,Yolo Bypass,2/22/2016,2016,S,-4.27,-35.02,uncaged,Experimental
+NP16012,Yolo Bypass,2/22/2016,2016,S,-3.36,-31.38,uncaged,Experimental
+NP16013,Yolo Bypass,2/22/2016,2016,S,-5.13,-34.79,uncaged,Experimental
+NP16014,Yolo Bypass,2/22/2016,2016,S,-4.81,-34.64,uncaged,Experimental
+NP16015,Yolo Bypass,2/22/2016,2016,S,-4.29,-34.9,uncaged,Experimental
+NP16016,Yolo Bypass,2/9/2016,2016,S,-0.54,-34.73,uncaged,Experimental
+NP16021,Yolo Bypass,2/29/2016,2016,S,-4.01,-38.02,uncaged,Experimental
+NP16022,Yolo Bypass,2/29/2016,2016,S,-4.68,-38.42,uncaged,Experimental
+NP16024,Yolo Bypass,2/29/2016,2016,S,-4.62,-36.53,uncaged,Experimental
+NP16025,Yolo Bypass,2/29/2016,2016,S,-4.84,-36.87,uncaged,Experimental
+NP16026,Yolo Bypass,3/10/2016,2016,S,-3.95,-35.03,uncaged,Experimental
+NP16026,Yolo Bypass,3/10/2016,2016,S,-6.13,-37,uncaged,Experimental
+NP16027,Yolo Bypass,3/10/2016,2016,S,-5.59,-37.11,uncaged,Experimental
+NP16027,Yolo Bypass,3/10/2016,2016,S,-6.03,-37.38,uncaged,Experimental
+NP16028,Yolo Bypass,3/10/2016,2016,S,-4.52,-35.62,uncaged,Experimental
+NP16029,Yolo Bypass,3/10/2016,2016,S,-4.64,-36.59,uncaged,Experimental
+NP16034,Yolo Bypass,3/11/2016,2016,S,-3.24,-29.42,uncaged,Experimental
+NP16035,Yolo Bypass,3/11/2016,2016,S,-3.9,-29.87,uncaged,Experimental
+NP16035,Yolo Bypass,3/11/2016,2016,S,-3.43,-28.62,uncaged,Experimental
+NP16036,Yolo Bypass,3/11/2016,2016,S,-3.11,-29.96,uncaged,Experimental
+NP16037,Yolo Bypass,3/11/2016,2016,S,-4.87,-31.47,uncaged,Experimental
+NP16037,Yolo Bypass,3/11/2016,2016,S,-4.69,-31.39,uncaged,Experimental
+NP16037,Yolo Bypass,3/11/2016,2016,S,-5.18,-32.29,uncaged,Experimental
+NP16038,Yolo Bypass,4/7/2016,2016,S,-2.29,-29.55,uncaged,Wild
+NP16038,Yolo Bypass,4/7/2016,2016,S,1.34,-30.01,uncaged,Wild
+NP16039,Yolo Bypass,4/6/2016,2016,S,NA,NA,uncaged,Wild
+NP16040,Yolo Bypass,3/29/2016,2016,S,-1.89,-31.42,uncaged,Wild
+NP16041,Yolo Bypass,4/1/2016,2016,S,-2.07,-31.78,uncaged,Wild
+NP16042,Yolo Bypass,4/1/2016,2016,S,1.52,-31.57,uncaged,Wild
+NP16043,Yolo Bypass,4/1/2016,2016,S,-2.17,-31.77,uncaged,Wild
+NP16044,Yolo Bypass,4/5/2016,2016,S,-0.48,-30.51,uncaged,Wild
+NP16045,Yolo Bypass,4/5/2016,2016,S,-3.04,-31.21,uncaged,Wild
+NP16046,Yolo Bypass,4/4/2016,2016,S,NA,NA,uncaged,Wild
+NP16047,Yolo Bypass,4/6/2016,2016,S,NA,NA,uncaged,Wild
+NP16048,Yolo Bypass,4/5/2016,2016,S,-2.77,-30.24,uncaged,Wild
+NP16049,Yolo Bypass,4/7/2016,2016,S,NA,NA,uncaged,Wild
+NP16050,Yolo Bypass,4/7/2016,2016,S,NA,NA,uncaged,Wild
+NP16051,Yolo Bypass,4/6/2016,2016,S,-1.32,-30.37,uncaged,Wild
+NP16052,Yolo Bypass,4/7/2016,2016,S,NA,NA,uncaged,Wild
+NP16053,Yolo Bypass,4/6/2016,2016,S,-2.08,-30.08,uncaged,Wild
+NP16054,Yolo Bypass,4/7/2016,2016,S,NA,NA,uncaged,Wild
+NP16055,Yolo Bypass,4/7/2016,2016,S,NA,NA,uncaged,Wild
+NP16056,Yolo Bypass,4/6/2016,2016,S,-2.51,-30.32,uncaged,Wild
+NP16057,Yolo Bypass,4/6/2016,2016,S,-1.62,-31.07,uncaged,Wild
+NP16058,Yolo Bypass,4/6/2016,2016,S,NA,NA,uncaged,Wild
+NP16100,Yolo Bypass,2/29/2016,2016,S,-4.09,-34.94,uncaged,Experimental
+NP16102,Yolo Bypass,3/7/2016,2016,S,-5.09,-35.03,uncaged,Experimental
+NP16103,Yolo Bypass,3/7/2016,2016,S,-1.95,-37.24,uncaged,Experimental
+NP16104,Yolo Bypass,2/16/2016,2016,S,-2.86,-34.56,uncaged,Experimental
+NP16105,Yolo Bypass,2/16/2016,2016,S,NA,NA,uncaged,Experimental
+NP16110,Yolo Bypass,2/9/2016,2016,S,NA,NA,uncaged,Experimental
+NP16111,Yolo Bypass,2/9/2016,2016,S,NA,NA,uncaged,Experimental
+NP16112,Yolo Bypass,2/9/2016,2016,S,NA,NA,uncaged,Experimental
+NP16114,Yolo Bypass,3/10/2016,2016,S,-6.24,-36.5,uncaged,Experimental
+NP16115,Yolo Bypass,2/16/2016,2016,S,-3.3,-34.34,uncaged,Experimental
+NP16201,Sacramento,4/18/2016,2016,S,1.13,-28.66,caged,Experimental
+NP16205,Sacramento,4/18/2016,2016,S,3.38,-24.82,caged,Experimental
+NP16207,Sacramento,4/18/2016,2016,S,0.92,-29.06,caged,Experimental
+NP16208,Sacramento,4/18/2016,2016,S,1.56,-28.76,caged,Experimental
+NP16209,Sacramento,4/18/2016,2016,S,2.19,-28.83,caged,Experimental
+DM17001,Sacramento,4/21/2017,2017,M,10.8,-21.97,uncaged,Wild
+DM17002,Sacramento,2/22/2017,2017,M,8.2,-22.38,uncaged,Wild
+DM17007,Sacramento,2/16/2017,2017,M,5.9,-22.98,uncaged,Wild
+DM17008,Sacramento,2/17/2017,2017,M,6.8,-25.33,uncaged,Wild
+DM17014,Sacramento,3/3/2017,2017,M,5,-25.06,uncaged,Wild
+DM17016,Sacramento,3/1/2017,2017,M,8.1,-23.43,uncaged,Wild
+DM17017,Sacramento,3/1/2017,2017,M,5.7,-24.3,uncaged,Wild
+DM17018,Sacramento,3/3/2017,2017,M,9.4,-23.27,uncaged,Wild
+DM17019,Sacramento,3/6/2017,2017,M,7.4,-25.8,uncaged,Wild
+DM17020,Sacramento,4/16/2017,2017,M,12.7,-20.24,uncaged,Wild
+DM17021,Sacramento,4/16/2017,2017,M,13.2,-20.3,uncaged,Wild
+DM17022,Sacramento,4/6/2017,2017,M,2,-24.97,uncaged,Wild
+DM17023,Sacramento,4/6/2017,2017,M,2.3,-24.74,uncaged,Wild
+DM17024,Sacramento,3/12/2017,2017,M,7.8,-23.06,uncaged,Wild
+DM17025,Sacramento,3/9/2017,2017,M,5.4,-26.76,uncaged,Wild
+DM17026,Sacramento,3/25/2017,2017,M,4.4,-29.18,uncaged,Wild
+DM17027,Sacramento,4/28/2017,2017,M,7.9,-21.33,uncaged,Wild
+DM17028,Sacramento,4/28/2017,2017,M,3.2,-22.62,uncaged,Wild
+DM17029,Sacramento,3/9/2017,2017,M,5.4,-26.86,uncaged,Wild
+DM17030,Sacramento,4/6/2017,2017,M,10.4,-21.22,uncaged,Wild
+DM17032,Sacramento,3/12/2017,2017,M,5.8,-24.71,uncaged,Wild
+DM17033,Sacramento,2/18/2017,2017,M,15.6,-18.27,uncaged,Wild
+DM17034,Sacramento,4/26/2017,2017,M,8.8,-21.75,uncaged,Wild
+DM17035,Sacramento,4/21/2017,2017,M,11.2,-21.55,uncaged,Wild
+DM17037,Sacramento,4/24/2017,2017,M,-0.8,-27.5,uncaged,Wild
+DM17039,Sacramento,2/27/2017,2017,M,4,-22.73,uncaged,Wild
+DM17040,Sacramento,3/26/2017,2017,M,9.3,-22.53,uncaged,Wild
+DM17043,Sacramento,3/27/2017,2017,M,4,-23.67,uncaged,Wild
+DM17044,Sacramento,3/24/2017,2017,M,13.4,-19.79,uncaged,Wild
+DM17045,Sacramento,4/21/2017,2017,M,11.3,-22.08,uncaged,Wild
+DM17047,Sacramento,3/28/2017,2017,M,13.7,-19.94,uncaged,Wild
+DM17048,Sacramento,3/29/2017,2017,M,4.5,-26.58,uncaged,Wild
+DM17049,Sacramento,3/29/2017,2017,M,4.4,-27.62,uncaged,Wild
+DM17050,Sacramento,5/1/2017,2017,M,10.5,-21.7,uncaged,Wild
+DM17052,Sacramento,4/12/2017,2017,M,12.5,-20.2,uncaged,Wild
+DM17053,Sacramento,3/16/2017,2017,M,6.7,-24.02,uncaged,Wild
+DM17054,Sacramento,5/5/2017,2017,M,-1.5,-25.02,uncaged,Wild
+DM17055,Sacramento,4/14/2017,2017,M,12.6,-19.93,uncaged,Wild
+DM17056,Sacramento,4/12/2017,2017,M,13.4,-20.11,uncaged,Wild
+DM17057,Sacramento,3/16/2017,2017,M,3.7,-24.91,uncaged,Wild
+DM17058,Sacramento,3/21/2017,2017,M,4.7,-25.52,uncaged,Wild
+DM17059,Sacramento,2/12/2017,2017,M,7.2,-20.01,uncaged,Wild
+DM17060,Sacramento,2/28/2017,2017,M,7.7,-22.6,uncaged,Wild
+DM17003,Sacramento,2/1/2017,2017,M,15.9,-18.8,uncaged,Wild
+DM17005,Sacramento,2/3/2017,2017,M,16.6,-18.92,uncaged,Wild
+DM17011,Sacramento,2/14/2017,2017,M,6.2,-22.16,uncaged,Wild
+DM17062,Sacramento,4/14/2017,2017,M,5,-22.41,uncaged,Wild
+DM17063,Sacramento,2/22/2017,2017,M,8.8,-22.06,uncaged,Wild
+DM17065,Sacramento,3/16/2017,2017,M,3.8,-24.95,uncaged,Wild
+DM17066,Sacramento,2/14/2017,2017,M,10.9,-21.25,uncaged,Wild
+DM17067,Sacramento,5/1/2017,2017,M,7.7,-23.4,uncaged,Wild
+DM17001,Sacramento,4/21/2017,2017,S,1.98,-30.41,uncaged,Wild
+DM17002,Sacramento,2/22/2017,2017,S,0.25,-29.21,uncaged,Wild
+DM17007,Sacramento,2/16/2017,2017,S,-0.3,-26.86,uncaged,Wild
+DM17008,Sacramento,2/17/2017,2017,S,3.42,-27.57,uncaged,Wild
+DM17014,Sacramento,3/3/2017,2017,S,2.22,-28.26,uncaged,Wild
+DM17016,Sacramento,3/1/2017,2017,S,1.53,-27.08,uncaged,Wild
+DM17017,Sacramento,3/1/2017,2017,S,0.69,-27.62,uncaged,Wild
+DM17018,Sacramento,3/3/2017,2017,S,1.64,-26.9,uncaged,Wild
+DM17019,Sacramento,3/6/2017,2017,S,1.74,-28.47,uncaged,Wild
+DM17020,Sacramento,4/16/2017,2017,S,2.87,-29.73,uncaged,Wild
+DM17021,Sacramento,4/16/2017,2017,S,2.75,-26.61,uncaged,Wild
+DM17022,Sacramento,4/6/2017,2017,S,0.09,-29.01,uncaged,Wild
+DM17023,Sacramento,4/6/2017,2017,S,1.18,-29.74,uncaged,Wild
+DM17024,Sacramento,3/12/2017,2017,S,0.87,-29.21,uncaged,Wild
+DM17025,Sacramento,3/9/2017,2017,S,1.6,-27.96,uncaged,Wild
+DM17026,Sacramento,3/25/2017,2017,S,2.09,-30.24,uncaged,Wild
+DM17027,Sacramento,4/28/2017,2017,S,1.46,-31.1,uncaged,Wild
+DM17028,Sacramento,4/28/2017,2017,S,-0.28,-30.16,uncaged,Wild
+DM17029,Sacramento,3/9/2017,2017,S,1.27,-28.01,uncaged,Wild
+DM17030,Sacramento,4/6/2017,2017,S,2.82,-29.51,uncaged,Wild
+DM17032,Sacramento,3/12/2017,2017,S,2.72,-29.65,uncaged,Wild
+DM17033,Sacramento,2/18/2017,2017,S,2.71,-28.87,uncaged,Wild
+DM17034,Sacramento,4/26/2017,2017,S,1.21,-30.36,uncaged,Wild
+DM17035,Sacramento,4/21/2017,2017,S,1.02,-30.71,uncaged,Wild
+DM17037,Sacramento,4/24/2017,2017,S,1.5,-30.64,uncaged,Wild
+DM17039,Sacramento,2/27/2017,2017,S,0.24,-27.44,uncaged,Wild
+DM17040,Sacramento,3/26/2017,2017,S,5.82,-31.24,uncaged,Wild
+DM17043,Sacramento,3/27/2017,2017,S,1.21,-29.22,uncaged,Wild
+DM17044,Sacramento,3/24/2017,2017,S,3.28,-28.6,uncaged,Wild
+DM17045,Sacramento,4/21/2017,2017,S,4.16,-29.98,uncaged,Wild
+DM17047,Sacramento,3/28/2017,2017,S,3.62,-28.23,uncaged,Wild
+DM17048,Sacramento,3/29/2017,2017,S,1.77,-30.06,uncaged,Wild
+DM17049,Sacramento,3/29/2017,2017,S,3.74,-30.22,uncaged,Wild
+DM17050,Sacramento,5/1/2017,2017,S,1.34,-29.78,uncaged,Wild
+DM17052,Sacramento,4/12/2017,2017,S,3.18,-26.72,uncaged,Wild
+DM17053,Sacramento,3/16/2017,2017,S,5.72,-28.65,uncaged,Wild
+DM17054,Sacramento,5/5/2017,2017,S,0.85,-30.23,uncaged,Wild
+DM17055,Sacramento,4/14/2017,2017,S,3.61,-28.24,uncaged,Wild
+DM17056,Sacramento,4/12/2017,2017,S,4.64,-28.9,uncaged,Wild
+DM17057,Sacramento,3/16/2017,2017,S,3.13,-28.34,uncaged,Wild
+DM17058,Sacramento,3/21/2017,2017,S,2.61,-29.28,uncaged,Wild
+DM17059,Sacramento,2/12/2017,2017,S,1.4,-24.74,uncaged,Wild
+DM17060,Sacramento,2/28/2017,2017,S,0.33,-27.27,uncaged,Wild
+DM17003,Sacramento,2/1/2017,2017,S,16.67,-23.84,uncaged,Wild
+DM17005,Sacramento,2/3/2017,2017,S,5.06,-27.06,uncaged,Wild
+DM17011,Sacramento,2/14/2017,2017,S,1.76,-29.49,uncaged,Wild
+DM17062,Sacramento,4/14/2017,2017,S,1.89,-28.84,uncaged,Wild
+DM17063,Sacramento,2/22/2017,2017,S,1.66,-28.87,uncaged,Wild
+DM17065,Sacramento,3/16/2017,2017,S,6.12,-28.76,uncaged,Wild
+DM17066,Sacramento,2/14/2017,2017,S,6.34,-28.27,uncaged,Wild
+DM17067,Sacramento,5/1/2017,2017,S,1.49,-29.35,uncaged,Wild
+NP17001,Yolo Bypass,3/16/2017,2017,M,1,-27.97,uncaged,Wild
+NP17002,Yolo Bypass,3/16/2017,2017,M,1,-28.79,uncaged,Wild
+NP17003,Yolo Bypass,3/16/2017,2017,M,1.4,-29.92,uncaged,Wild
+NP17004,Yolo Bypass,3/16/2017,2017,M,0.8,-30.08,uncaged,Wild
+NP17005,Yolo Bypass,3/16/2017,2017,M,0.3,-29.88,uncaged,Wild
+NP17006,Yolo Bypass,4/6/2017,2017,M,-0.5,-27.03,uncaged,Wild
+NP17007,Yolo Bypass,4/6/2017,2017,M,7.4,-22.16,uncaged,Wild
+NP17008,Yolo Bypass,4/6/2017,2017,M,-0.9,-27.35,uncaged,Wild
+NP17009,Yolo Bypass,4/6/2017,2017,M,7.2,-22.16,uncaged,Wild
+NP17010,Yolo Bypass,4/6/2017,2017,M,-1.1,-26.08,uncaged,Wild
+NP17011,Yolo Bypass,4/6/2017,2017,M,7.1,-21.82,uncaged,Wild
+NP17012,Yolo Bypass,4/6/2017,2017,M,8.9,-21,uncaged,Wild
+NP17016,Yolo Bypass,4/5/2017,2017,M,8,-22.45,uncaged,Wild
+NP17017,Yolo Bypass,4/5/2017,2017,M,-1.4,-28.5,uncaged,Wild
+NP17018,Yolo Bypass,4/5/2017,2017,M,-1.1,-28.26,uncaged,Wild
+NP17019,Yolo Bypass,4/6/2017,2017,M,-1.6,-27.59,uncaged,Wild
+NP17020,Yolo Bypass,4/6/2017,2017,M,0.4,-26.59,uncaged,Wild
+NP17021,Yolo Bypass,4/5/2017,2017,M,-2.1,-28.16,uncaged,Wild
+NP17022,Yolo Bypass,4/5/2017,2017,M,-1.7,-29.56,uncaged,Wild
+NP17023,Yolo Bypass,4/6/2017,2017,M,-1.4,-28.2,uncaged,Wild
+NP17024,Yolo Bypass,4/5/2017,2017,M,-1.7,-27.26,uncaged,Wild
+NP17025,Yolo Bypass,4/5/2017,2017,M,-0.3,-25.59,uncaged,Wild
+NP17026,Yolo Bypass,4/5/2017,2017,M,-1.8,-26.84,uncaged,Wild
+NP17027,Yolo Bypass,4/5/2017,2017,M,-0.4,-28.08,uncaged,Wild
+NP17028,Yolo Bypass,4/5/2017,2017,M,9.3,-22.22,uncaged,Wild
+NP17029,Yolo Bypass,4/5/2017,2017,M,-1.7,-28.22,uncaged,Wild
+NP17030,Yolo Bypass,4/6/2017,2017,M,-1.6,-28.5,uncaged,Wild
+NP17031,Yolo Bypass,4/26/2017,2017,M,2.7,-26.23,caged,Experimental
+NP17032,Yolo Bypass,4/26/2017,2017,M,3.7,-25.3,caged,Experimental
+NP17033,Yolo Bypass,4/26/2017,2017,M,1.7,-25.78,caged,Experimental
+NP17034,Yolo Bypass,4/26/2017,2017,M,1.4,-27.25,caged,Experimental
+NP17035,Yolo Bypass,4/26/2017,2017,M,3.9,-25.36,caged,Experimental
+NP17001,Yolo Bypass,3/16/2017,2017,S,-1.35,-36.64,uncaged,Wild
+NP17002,Yolo Bypass,3/16/2017,2017,S,-1.33,-30.33,uncaged,Wild
+NP17003,Yolo Bypass,3/16/2017,2017,S,-2.89,-38.02,uncaged,Wild
+NP17004,Yolo Bypass,3/16/2017,2017,S,-3.54,-37.68,uncaged,Wild
+NP17005,Yolo Bypass,3/16/2017,2017,S,-2.41,-37.27,uncaged,Wild
+NP17006,Yolo Bypass,4/6/2017,2017,S,-3.17,-31.6,uncaged,Wild
+NP17007,Yolo Bypass,4/6/2017,2017,S,1.3,-25.54,uncaged,Wild
+NP17008,Yolo Bypass,4/6/2017,2017,S,-1.69,-30.46,uncaged,Wild
+NP17009,Yolo Bypass,4/6/2017,2017,S,1.25,-26.31,uncaged,Wild
+NP17010,Yolo Bypass,4/6/2017,2017,S,-2.25,-27.26,uncaged,Wild
+NP17011,Yolo Bypass,4/6/2017,2017,S,-1.25,-28.41,uncaged,Wild
+NP17012,Yolo Bypass,4/6/2017,2017,S,-1.84,-28.59,uncaged,Wild
+NP17016,Yolo Bypass,4/5/2017,2017,S,-1.11,-32.91,uncaged,Wild
+NP17017,Yolo Bypass,4/5/2017,2017,S,-2.76,-34.48,uncaged,Wild
+NP17018,Yolo Bypass,4/5/2017,2017,S,-2.2,-33.05,uncaged,Wild
+NP17019,Yolo Bypass,4/6/2017,2017,S,-2.07,-31.58,uncaged,Wild
+NP17020,Yolo Bypass,4/6/2017,2017,S,-3.08,-31.65,uncaged,Wild
+NP17021,Yolo Bypass,4/5/2017,2017,S,-2.76,-33.48,uncaged,Wild
+NP17022,Yolo Bypass,4/5/2017,2017,S,-2.87,-33.85,uncaged,Wild
+NP17023,Yolo Bypass,4/6/2017,2017,S,-2.24,-31.7,uncaged,Wild
+NP17024,Yolo Bypass,4/5/2017,2017,S,-2.55,-32.74,uncaged,Wild
+NP17025,Yolo Bypass,4/5/2017,2017,S,-1.38,-31.94,uncaged,Wild
+NP17026,Yolo Bypass,4/5/2017,2017,S,-1.23,-33.14,uncaged,Wild
+NP17027,Yolo Bypass,4/5/2017,2017,S,-1.89,-33.03,uncaged,Wild
+NP17028,Yolo Bypass,4/5/2017,2017,S,-1.21,-32.45,uncaged,Wild
+NP17029,Yolo Bypass,4/5/2017,2017,S,-2.6,-32.21,uncaged,Wild
+NP17030,Yolo Bypass,4/6/2017,2017,S,-2.32,-32.25,uncaged,Wild
+NP17031,Yolo Bypass,4/26/2017,2017,S,-2.74,-27.58,caged,Experimental
+NP17032,Yolo Bypass,4/26/2017,2017,S,-1.62,-28.31,caged,Experimental
+NP17033,Yolo Bypass,4/26/2017,2017,S,-1.73,-28.8,caged,Experimental
+NP17034,Yolo Bypass,4/26/2017,2017,S,-1.73,-28.73,caged,Experimental
+NP17035,Yolo Bypass,4/26/2017,2017,S,-1.98,-28.65,caged,Experimental
+NP16011,Yolo Bypass,2/22/2016,2016,F,-1.7,NA,uncaged,Wild
+NP16012,Yolo Bypass,2/22/2016,2016,F,-1.8,NA,uncaged,Wild
+NP16013,Yolo Bypass,2/22/2016,2016,F,-2.8,NA,uncaged,Wild
+NP16014,Yolo Bypass,2/22/2016,2016,F,-3,NA,uncaged,Wild
+NP16015,Yolo Bypass,2/22/2016,2016,F,-2.4,NA,uncaged,Wild
+NP16021,Yolo Bypass,2/29/2016,2016,F,-3.7,NA,uncaged,Wild
+NP16022,Yolo Bypass,2/29/2016,2016,F,-3.4,NA,uncaged,Wild
+NP16023,Yolo Bypass,2/29/2016,2016,F,-2.6,NA,uncaged,Wild
+NP16024,Yolo Bypass,2/29/2016,2016,F,-2.9,NA,uncaged,Wild
+NP16025,Yolo Bypass,2/29/2016,2016,F,-3.6,NA,uncaged,Wild
+NP16001,Yolo Bypass,3/7/2016,2016,F,-4.8,NA,uncaged,Wild
+NP16002,Yolo Bypass,3/7/2016,2016,F,-4.9,NA,uncaged,Wild
+NP16003,Yolo Bypass,3/7/2016,2016,F,-4.6,NA,uncaged,Wild
+NP16004,Yolo Bypass,3/7/2016,2016,F,-5.1,NA,uncaged,Wild
+NP16005,Yolo Bypass,3/7/2016,2016,F,-5,NA,uncaged,Wild
+NP16026,Yolo Bypass,3/10/2016,2016,F,-6.5,NA,uncaged,Wild
+NP16027,Yolo Bypass,3/10/2016,2016,F,-6,NA,uncaged,Wild
+NP16028,Yolo Bypass,3/10/2016,2016,F,-6.4,NA,uncaged,Wild
+NP16029,Yolo Bypass,3/10/2016,2016,F,-5.6,NA,uncaged,Wild
+NP16030,Yolo Bypass,3/10/2016,2016,F,-6.5,NA,uncaged,Wild
+NP17200,Sacramento,4/26/2017,2017,M,6.1,-24.86,caged,Experimental
+NP17201,Sacramento,4/26/2017,2017,M,7.5,-23.81,caged,Experimental
+NP17202,Sacramento,4/26/2017,2017,M,6.3,-24.85,caged,Experimental
+NP17203,Sacramento,4/26/2017,2017,M,8.6,-23.32,caged,Experimental
+NP17204,Sacramento,4/26/2017,2017,M,5.9,-24.33,caged,Experimental
+NP17200,Sacramento,4/26/2017,2017,S,2.55,-30.92,caged,Experimental
+NP17201,Sacramento,4/26/2017,2017,S,1.49,-29.94,caged,Experimental
+NP17202,Sacramento,4/26/2017,2017,S,2.01,-31.07,caged,Experimental
+NP17203,Sacramento,4/26/2017,2017,S,2.28,-31.02,caged,Experimental
+NP17204,Sacramento,4/26/2017,2017,S,1.8,-30.29,caged,Experimental
